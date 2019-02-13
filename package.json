@@ -2,7 +2,7 @@
   "name": "bulletin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:/set-list.github.io/bulletin",
+  "homepage": "https://set-list.github.io/bulletin",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.1",
