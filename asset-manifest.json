@@ -1,13 +1,13 @@
 {
-  "main.css": "/set-list.github.io/bulletin/static/css/main.cf3e1f02.chunk.css",
-  "main.js": "/set-list.github.io/bulletin/static/js/main.e65a172f.chunk.js",
-  "main.js.map": "/set-list.github.io/bulletin/static/js/main.e65a172f.chunk.js.map",
-  "runtime~main.js": "/set-list.github.io/bulletin/static/js/runtime~main.3c04afb5.js",
-  "runtime~main.js.map": "/set-list.github.io/bulletin/static/js/runtime~main.3c04afb5.js.map",
-  "static/js/2.c0334174.chunk.js": "/set-list.github.io/bulletin/static/js/2.c0334174.chunk.js",
-  "static/js/2.c0334174.chunk.js.map": "/set-list.github.io/bulletin/static/js/2.c0334174.chunk.js.map",
-  "index.html": "/set-list.github.io/bulletin/index.html",
-  "precache-manifest.68da7b3ac0e2add4330e5ba2ef2334a6.js": "/set-list.github.io/bulletin/precache-manifest.68da7b3ac0e2add4330e5ba2ef2334a6.js",
-  "service-worker.js": "/set-list.github.io/bulletin/service-worker.js",
-  "static/css/main.cf3e1f02.chunk.css.map": "/set-list.github.io/bulletin/static/css/main.cf3e1f02.chunk.css.map"
+  "main.css": "/bulletin/static/css/main.cf3e1f02.chunk.css",
+  "main.js": "/bulletin/static/js/main.8cc43cc9.chunk.js",
+  "main.js.map": "/bulletin/static/js/main.8cc43cc9.chunk.js.map",
+  "runtime~main.js": "/bulletin/static/js/runtime~main.da386fea.js",
+  "runtime~main.js.map": "/bulletin/static/js/runtime~main.da386fea.js.map",
+  "static/js/2.c0334174.chunk.js": "/bulletin/static/js/2.c0334174.chunk.js",
+  "static/js/2.c0334174.chunk.js.map": "/bulletin/static/js/2.c0334174.chunk.js.map",
+  "index.html": "/bulletin/index.html",
+  "precache-manifest.a44806a7ae1188a854f698e1cb8da8cd.js": "/bulletin/precache-manifest.a44806a7ae1188a854f698e1cb8da8cd.js",
+  "service-worker.js": "/bulletin/service-worker.js",
+  "static/css/main.cf3e1f02.chunk.css.map": "/bulletin/static/css/main.cf3e1f02.chunk.css.map"
 }
